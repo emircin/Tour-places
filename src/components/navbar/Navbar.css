@@ -1,0 +1,17 @@
+.nav-item{
+    font-size: 32px;
+    font-family: 'Amatic SC', cursive;
+    padding: 0 10px;
+}
+.nav-item a{
+    color: white;
+}
+.nav-item:hover{
+    background-color: #5dd4c8;
+    transition-duration: 2s;
+    cursor: pointer;
+    
+}
+.nav-item a:hover{
+    color: azure;
+}
